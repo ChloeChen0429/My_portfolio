@@ -502,7 +502,8 @@ public class PlayerMovement : MonoBehaviour
 
 ### 1. Reflection on the final result:
 
-![Uploading image.png…]()
+<img width="1332" height="728" alt="image" src="https://github.com/user-attachments/assets/c9cf200e-6c67-472b-9408-ec00006c17cc" />
+
 
 
 #### 1.1 Reflection and improvement on teamwork
