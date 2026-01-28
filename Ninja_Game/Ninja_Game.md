@@ -1,4 +1,6 @@
 # Project Title - NinJa Frog 
+<img width="2648" height="1348" alt="image" src="https://github.com/user-attachments/assets/0e75023f-4143-4e7c-960c-63a86d87623a" />
+
 
 ## Overview & Project Description
 ### Interaction & Rules:
@@ -21,7 +23,9 @@ The hand gesture control mechanism in Ninja Frog is inspired by an ancient Chine
 
 ##### “翻手为云，覆手为雨” —— “With a flip of the hand, clouds form; with another, rain falls.”
 
-<img width="1008" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/38028625-e0fa-4596-9c4f-f64fb58c4072">
+<img width="2016" height="946" alt="image" src="https://github.com/user-attachments/assets/8a372b06-df15-4f4a-8cc6-b04fb465cc4a" />
+
+
 
 Originally, this phrase described the unpredictable control of those in power. 
 
@@ -42,7 +46,8 @@ They relentlessly tear apart the ninja frog’s path forward, just as war and po
 - **Additional Materials**: Jump wires, breadboards
 
 ### Images:  
-<img width="631" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/b74a5948-4015-4d51-9217-654d5c19b724">
+<img width="1262" height="440" alt="image" src="https://github.com/user-attachments/assets/b1e85b19-10f7-4e6f-8934-9e85fd354774" />
+
 
 ---
 
@@ -52,7 +57,8 @@ They relentlessly tear apart the ninja frog’s path forward, just as war and po
 
 Hand movements: From manipulation to awakening
 
-<img width="1345" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/668a7eea-1a41-4ec5-88e0-61bb0a4d7d7c">
+<img width="2690" height="856" alt="image" src="https://github.com/user-attachments/assets/b376a53c-bcff-4024-8dbb-cbd2f8bb10ee" />
+
 
 
 "Ninja Frog" is not only an allegory about political games, but also a practice of personal awakening. Hand movements are not only a symbol of power, but also a manifestation of the player's inner strength. Through the interaction between the hand and Ninja Frog, players gradually experience a transformation from manipulation to awakening.
@@ -71,7 +77,7 @@ Through the interaction between the hand and Ninja Frog, players experience a pr
 
 ### Unity Scene Building
 
-<img width="1465" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/67692c67-a68b-4d2a-8731-98f8534ccc53">
+<img width="2930" height="1566" alt="image" src="https://github.com/user-attachments/assets/dc51dfc6-cdd9-41bf-b346-9dfaeb80ed27" />
 
 In this project, we created a 2D platform game scene with a pixel art style overall. The scene is composed of multiple key parts:
 
@@ -101,7 +107,8 @@ A moving platform is also set up in the scene. The player can move along with th
 
 To achieve the core functions of the game, we wrote multiple scripts to control functions such as player movement, item collection, death and rebirth, and platform following respectively.
 
-<img width="651" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/78bbd38a-0e48-4d31-8001-9fed064f8510">
+<img width="1302" height="508" alt="image" src="https://github.com/user-attachments/assets/17846c4d-f755-423a-bf5b-8c0d2dbbacee" />
+
 
 #### 1. Player character control
 
@@ -203,7 +210,8 @@ private void OnTriggerExit2D(Collider2D collision)
 | SCL  | A5 | 
 | SDA  | A4   | 
 
-![image](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/eb352c5f-7cb4-4077-a566-3fc8f1338d5f)
+<img width="477" height="474" alt="image" src="https://github.com/user-attachments/assets/6cfecb1d-b4be-49e7-bdd1-a5534b067af9" />
+
 
 Code structure:
 
@@ -263,27 +271,19 @@ The jumping state is only allowed to be triggered when IsGrounded() returns true
 
 ### Component production
 
-<img width="813" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/389ee0e2-b568-47c0-bc28-79e6e17e2087">
-
----
-
-## Video Demonstration
-
-
-https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/ed3d497f-d800-4c3a-b271-ffda3cc545d1
+<img width="1626" height="1126" alt="image" src="https://github.com/user-attachments/assets/c9886c75-4b68-4462-b39d-06d215fde7ea" />
 
 
 ---
 
 ## Final Images
 
-<img width="1266" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/b8e8c199-ab8c-4cfb-b1b2-012564a199ae">
+<img width="2764" height="514" alt="image" src="https://github.com/user-attachments/assets/c05750f7-63b4-4021-9e90-0dbfba3f2c09" />
 
 ---
 
 ## Arduino Code
 ### Arduino MPU6050 Code
-[Arduino Code file](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/blob/7c3330bd2f0bd3d343b5e5910557fc3e2c4cd3a5/CODE/unity%202D%20arduino)
 
 ```
 #include <Wire.h>
@@ -354,7 +354,6 @@ void loop() {
 ---
 
 ### Unity Arduino communication & action
-[Unity Arduino communication & action code](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/blob/83d933a9b19f49646c45ec1d87b7cb194d49df2d/CODE/Unity%20Arduino%20communication%20%26%20action%20code)
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -494,59 +493,22 @@ public class PlayerMovement : MonoBehaviour
 
 [LINK UNITY FILES](https://drive.google.com/file/d/1-XVVaLMuIbDttGsVcyZim7nB-50qqmHc/view?usp=sharing)
 
-<img width="1382" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/b1225f12-9831-4acc-a4b9-5d798bb40470">
+<img width="1332" height="728" alt="image" src="https://github.com/user-attachments/assets/ccabbca8-7b81-46db-9115-07d7548a81da" />
 
 ---
 
 ## Design Justification 
-### 1. Reflection on the production process:
-   
-Before the final game design was produced, we conducted a 3D interaction experiment and created a simple 3D scene, including a straight path as the rolling area for the small ball. We also added basic light sources and ambient light to ensure that the scene is clearly visible.
 
-<img width="1456" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/80fb0a3e-4970-4f17-96c9-ab668d8b2a33">
+### 1. Reflection on the final result:
 
-![Xnip2025-02-12_20-45-26](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/50b4cdd0-8593-4441-b19e-e435915ea3b9)
+![Uploading image.png…]()
 
 
-#### 1.1 Scene and Obstacle Design
-
-Use Unity's 3D Cube to build obstacles and walls to enhance the game's challenge. By adjusting the scaling of objects, design obstacles of different shapes and heights to make the levels more variable.
-
-#### 1.2 Visual effect optimization
-
-Adjust the material and texture of obstacles to distinguish them from the ground and enhance the visual layering. Give the ball a red material to make it more recognizable and attractive.
-
-#### 1.3 Mechanism code implementation (Unity Scene & Component Code)
-   
-Ball control script: Use the rigid body component to control the physical movement of the ball and write a script to read Arduino input to achieve direction adjustment.
-
-Arduino integration: Read Arduino sensor data through serial communication and map it to the ball's movement instructions to achieve physical interaction control, enabling players to control the ball through external devices.
-
-After such optimization, the overall interaction is clearer and more fluid.      
-
-
-
-https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/5ee79b1a-ba75-4ee2-a184-fe181a97245e
-
-
-
-We have obtained good interaction effects. However, we have encountered difficulties in concept and artistic expression. Because this game is somewhat common and more like a time-killing game, we haven't been able to obtain more ideological expressions from this game.
-
-So, we decided to start from the concept itself and optimize the game. Later, we focused on the current world issue of war. We want to express the phenomenon that in political games, the thoughts and actions of those in power often affect the life and death and fate of countless people. Therefore, we think that the 2D game method can better express this concept. Because players are in a three-dimensional world and the characters in the game are in a two-dimensional world, just like political figures in real life are in the upper layer and control soldiers who don't know the real situation.
-
-In game design, we combine players' gesture control with the actions of game characters to create an experience that seems to be in control but is actually out of control. Initially, players will feel absolute control over the characters. But as the game progresses, they will realize that the fate of the characters is not entirely determined by themselves but is influenced by external forces. The actions of characters on the battlefield may be restricted due to changes in commands and even lead to inevitable sacrifice.
-
-In the end, the outcome of the game is not simply a matter of victory or defeat. Instead, it makes players reflect on the role they have played throughout the process. Will they become a cold controller or seek another possibility after awakening? The core concept of the game - from control to awakening - runs through the entire experience. It is hoped that players can resonate during the process and have a deeper understanding of the power structure in the real world.
-
-### 2. Reflection on the final result:
-
-<img width="666" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/5aa9d8f9-b90e-497a-9859-fd03f6c49dc5">
-
-#### 2.1 Reflection and improvement on teamwork
+#### 1.1 Reflection and improvement on teamwork
 
 Our team members have relatively clear divisions of labor. Each person is responsible for specific tasks such as Unity development, Arduino programming, concept design, and so on. However, in the actual development process, this division of labor sometimes appears too fixed, resulting in a lack of flexible collaboration among members. For example, when encountering cross-module problems, additional time is needed for coordination and communication. Our team members can communicate problems in a timely manner and solve them together, but on some complex issues, communication efficiency is still relatively low. For example, when debugging the interaction between Unity and Arduino, due to a lack of in-depth understanding of each other's modules, both parties need to repeatedly confirm details.
 
-#### 2.2 Reflection and improvement on interaction optimization
+#### 1.2 Reflection and improvement on interaction optimization
 
 • Precision of gesture control: Although the gesture control mechanism brings a novel experience to players, in actual operation, the precision of gesture recognition still needs to be improved. For example, when players are moving or jumping quickly, misoperations or response delays may occur.
 
@@ -556,15 +518,15 @@ Our team members have relatively clear divisions of labor. Each person is respon
 
 • Enhance interaction feedback: Add more interaction feedback mechanisms. For example, after players complete gesture operations, through visual effects or vibration feedback, players can clearly feel that the operation has been recognized.
 
-#### 3.3 Conceptual expression reflection and improvement
+#### 2 Conceptual expression reflection and improvement
 
-##### 3.3.1 Conceptual expression reflection
+##### 2.1 Conceptual expression reflection
 
 • Conceptual abstraction: The game's theme of "From manipulation to awakening" is relatively abstract, and some players may find it difficult to understand its deep meaning in a short time. These metaphors may not be intuitive enough for players without relevant background knowledge.
 
 • Insufficient emotional resonance: Although the game mechanism and theme design have a certain depth of thought, in actual experience, some players may pay more attention to the operability of the game and overlook the emotional and ideological expressions behind the game.
 
-##### 3.3.2 Conceptual expression improvement space
+##### 2.2 Conceptual expression improvement space
 
 • Add theme guidance: Before the game starts, clearly introduce the game's theme and background through a short animation or text description. For example, a concept of "with great power comes great responsibility" can be shown through an opening animation to help players better understand the deep meaning of the game.
 
