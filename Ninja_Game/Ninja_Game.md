@@ -1,15 +1,5 @@
 # Project Title - NinJa Frog 
 
-![Xnip2025-02-12_21-27-06](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/832ae291-a7d3-4501-8a0a-2d16dbd64db2)
-
-|Team member    |Discussion & Research|Concept|Unity Scene Building|Unity Scene & Component Code|Arduino Code & Making|Unity Arduino Communication & Interaction Code|Debugging & Testing|GitHub Writing|
-| :---          | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | 
-| Manyi Lin     | ✅   | ✅   |  ✅    | ✅   |       |      |  ✅   |     |  
-| Yuxin Chen    | ✅   | ✅   | ✅   |   ✅   |       |      |  ✅   |    |   
-| Zenghou Luan  | ✅   | ✅   |     |    | ✅    | ✅   |    ✅  | ✅   | 
-
----
-
 ## Overview & Project Description
 ### Interaction & Rules:
 
