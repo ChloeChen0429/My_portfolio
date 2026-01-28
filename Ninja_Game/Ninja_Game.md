@@ -278,7 +278,8 @@ The jumping state is only allowed to be triggered when IsGrounded() returns true
 
 ## Final Images
 
-<img width="2764" height="514" alt="image" src="https://github.com/user-attachments/assets/c05750f7-63b4-4021-9e90-0dbfba3f2c09" />
+<img width="2532" height="1278" alt="image" src="https://github.com/user-attachments/assets/5d3a3c62-ef19-48d9-a550-2921d93911f8" />
+
 
 ---
 
