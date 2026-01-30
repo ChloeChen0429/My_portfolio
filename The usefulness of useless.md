@@ -3,20 +3,13 @@
 A Study of Incomplete or Abandoned Property Developments in London
 
 
-<img width="1160" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/598e5e69-4e1c-4280-bc26-ca36fd230197">
-
+[<img width="1160" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/598e5e69-4e1c-4280-bc26-ca36fd230197">
+](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/598e5e69-4e1c-4280-bc26-ca36fd230197)
 
 By reimagining and virtually activating the incomplete buildings on the outskirts of London, we explore how these contemporary ruins, after the collapse of utopian ideals, carry the spiritual value of Zhuangzi's "the usefulness of the useless" and humanity's renewed perception of space, time, and memory.
 
 ---
 
-|Team member|Discussion & Research|Concept|Field research|Shooting|3D Model & Printing|TD Interaction & Vision|Video Editing|TD technical support|GitHub Writing|
-| :---          | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | 
-| Manyi Lin     |✅|🩷|✅|✅|🩷|🩷|✅|🩷|🩷| 
-| Yuxin Chen    |✅|✅|✅|🩷|🩷|✅|🩷|✅|🩷| 
-| Zenghou Luan  |✅|🩷|✅|🩷|✅|🩷|🩷|🩷|✅|
-
----
 
 TD Files: 
 
@@ -44,11 +37,13 @@ London is a modern and prosperous city. However, on its outskirts, there are som
 
 We attempt to explore the time imprints and spiritual values carried by these failed ideal spaces, and ponder why these spaces that once promised publicity, futurism, and collective order are now regarded as "useless" physical relics.
 
-![image](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/c3a9965d-719b-4b71-8aa7-1c0de8a8027e)
+<img width="3300" height="2550" alt="image" src="https://github.com/user-attachments/assets/40cab8f9-d461-4d0c-ba61-1602902193d8" />
+
 
 At the same time, we hope to introduce the Taoist philosophy of "the utility of the useless" by Zhuangzi. A building that is considered useless in terms of utility may have an irreplaceable significance in the spiritual and emotional aspects. It is precisely this kind of "uselessness" that escapes the fate of being "used" and "exploited", and is closer to a state of nature and autonomy.
 
-<img width="1419" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/0ac78d44-8fa8-400a-be01-437c99a22e17">
+<img width="2838" height="1284" alt="image" src="https://github.com/user-attachments/assets/ae592259-9bcf-4540-9569-399835672481" />
+
 
 By re - imagining and reconstructing these abandoned buildings, we aim to understand the spiritual value behind the "unfinished" and the collapse of collective memory and ideals reflected in the failure of utopian visions in architectural practices. Our exploration focuses on how the ideals carried by these ruins affect contemporary people's perception of space, time, and memory - and explores whether we can re - establish an emotional connection with idealism through these places regarded as useless. Based on the concept of "the utility of the useless is the greatest utility", we will activate these structures in a virtual environment to explore the historical and emotional significance they carry. 
 
@@ -69,11 +64,12 @@ By re - imagining and reconstructing these abandoned buildings, we aim to unders
 
 We selected the following locations and conducted Case studies
 
-<img width="1066" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/a68529c3-bb07-426d-8d60-f7aaed5b87a6">
+<img width="2132" height="978" alt="image" src="https://github.com/user-attachments/assets/b76c407c-a6b5-482a-adb8-79946494ab8e" />
+
 
 At the same time, we conducted on - site research.
 
-<img width="1043" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/704b47d5-10ae-4a02-812e-b41ec2c7a854">
+<img width="2086" height="1096" alt="image" src="https://github.com/user-attachments/assets/51592a97-4107-485c-8878-08b5c863c6df" />
 
 ---
 
@@ -81,21 +77,21 @@ At the same time, we conducted on - site research.
 
 When we conducted on - site research, we collected relevant visual elements.
 
-<img width="1029" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/ad8f5a81-f784-4867-9552-ce5f65eae351">
+<img width="2058" height="1128" alt="image" src="https://github.com/user-attachments/assets/1786bcdb-b475-4875-a1b0-bbbeca34ae95" />
 
 After that, a visual sketch was drawn
 
-<img width="372" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/194ed31c-119a-40c5-baf2-fdff9172557c">
+<img width="744" height="494" alt="image" src="https://github.com/user-attachments/assets/8a280438-888e-4532-aa4d-f8c443c8d6f5" />
 
 and conduct modeling in Blender
 
-<img width="812" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/1a8d71db-f588-4311-958d-869568cab36a">
+<img width="1624" height="848" alt="image" src="https://github.com/user-attachments/assets/41148a37-04e4-447e-9e1c-b351633ac348" />
 
 After that, we 3D printed the model.
 
-<img width="1016" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/663c569e-ea2e-4270-b6f6-d7610bc7c1cd">
+<img width="2032" height="882" alt="image" src="https://github.com/user-attachments/assets/400f32ff-9cd8-4a02-8750-8d1d3a013b38" />
 
-<img width="1395" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/d372407f-8079-414e-b4e4-62bf8c26d5ec">
+<img width="2790" height="1040" alt="image" src="https://github.com/user-attachments/assets/589644dd-25ef-4684-a516-e6a052325d56" />
 
 ---
 
@@ -103,9 +99,10 @@ After that, we 3D printed the model.
 
 We designed the relevant visuals in TD and projected them for testing.
 
-<img width="951" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/7769494b-924c-41c0-85b3-d0813b8b3659">
+<img width="1902" height="986" alt="image" src="https://github.com/user-attachments/assets/291784b0-2eb3-4641-9350-636d7b6e3dee" />
 
-<img width="1062" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/e3148e2e-1373-4e38-9fe9-630d367e51b9">
+<img width="2124" height="878" alt="image" src="https://github.com/user-attachments/assets/5baf56d7-45d4-4160-aead-6d550ff863e0" />
+
 
 ---
 
@@ -118,9 +115,11 @@ At the same time, a parallel image system continuously generates evolving textur
 In terms of spatial composition, the tree on the fountain is at the center, symbolizing physical agency and the ideal of structuring; while the moss on the wall, as a non - linear memory structure, is connected to abandonment, deposition, and the silent tenacity of nature. Through Kantan Mapper, the visual effects and physical textures are seamlessly integrated, gradually blurring the boundary between the digital and the physical.
 
 
-<img width="1885" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/0e73c28b-64c0-49db-966b-e7df70810d6f">
+<img width="3770" height="1786" alt="image" src="https://github.com/user-attachments/assets/266e7357-dd5c-442d-aa65-d611c7d47520" />
 
-<img width="1571" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/9aa88b2d-0c80-4c2c-9fb5-6c459f764547">
+
+<img width="3142" height="1776" alt="image" src="https://github.com/user-attachments/assets/ef72452c-948e-4af6-aeb9-b6a9eff93bbe" />
+
 
 
 This system is not merely a technological marvel. It reactivates the forgotten architectural remnants through human interaction, transforming the audience from controllers into co - existers and witnesses. It reawakens the "useless" spaces, echoing what Zhuangzi said: true value often reveals itself when divorced from direct utility.
@@ -131,19 +130,22 @@ On a philosophical level, this project also corresponds to the "hauntology" theo
 
 ## Video Demonstration
 
-https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/c41a0000-45d8-4c20-a848-7f3e63e154ae
+https://github.com/user-attachments/assets/dc374a04-e28b-4cad-83e4-93c4032955f5
+
 
 ---
 
 ## Final Images
-<img width="1640" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/4a48fc10-cc28-4ae6-bbfe-a697b72bff12">
+<img width="3280" height="698" alt="image" src="https://github.com/user-attachments/assets/c2a49303-d8e1-4222-8eee-091c98382b1a" />
 
-<img width="1755" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/950f29ed-4369-4cad-ad3c-2704384c1679">
+<img width="3510" height="730" alt="image" src="https://github.com/user-attachments/assets/607619e8-c11e-4ac2-81b6-920d6249f306" />
+
 
 ---
 
 ## Design Justification 
-<img width="743" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/c449fc1c-0ccc-439e-9369-60a02c916d98">
+<img width="1486" height="916" alt="image" src="https://github.com/user-attachments/assets/1f19d08b-d458-40fc-8ac2-3a331413e81f" />
+
 
 ---
 
