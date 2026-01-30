@@ -1,6 +1,6 @@
 # Wandering Kunpeng（云游鲲鹏）
 
-<img width="1920" alt="Group 172" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/78b40bf9-4432-451c-a1ab-5a7493ac649f">
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/35553f0e-7b3c-46f4-8a28-95f74cb14539" />
 
 *Kunpeng is a mythical creature, symbolizing transformation and freedom.*
 
@@ -43,7 +43,7 @@ What is Kun? What is Peng? What is me?
 
 ##### “周之梦为胡蝶与？胡蝶之梦为周与？” —— “Is Zhou's dream of being a butterfly? Or is the butterfly's dream of being Zhou?”
 
-![image](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/3e21a7f0-7f8a-4c9b-9176-2b64a85e24a1)
+<img width="1656" height="635" alt="image" src="https://github.com/user-attachments/assets/e3c171fd-38c6-4e5d-a630-c8bfbb63b631" />
 
 Kun: The disorder and infinite possibility in the algorithm.
 
@@ -53,7 +53,8 @@ Me: A dynamic node in the cyber system, a Schrödinger's subject wandering betwe
 
 ##### “天地与我并生，而万物与我为一” —— “Heaven and the earth live together with me, and the myriad things and I are one.”
 
-![image](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/36218cf0-e521-46e6-9e29-0238d639fed2)
+<img width="1656" height="675" alt="image" src="https://github.com/user-attachments/assets/29fe465f-62db-476b-a8fe-7a08336793d7" />
+
 
 The proposition of "materialization" put forward by Zhuangzi emphasizes the continuous transformation and mutual integration among all things. When you interact with the system through gestures, you are both the controller and the "object" influenced by the system. The algorithm finds its "host" in you, and you also become a constantly changing existence under the mapping of the algorithm. 
 
@@ -69,7 +70,9 @@ This is similar to the feedback loop in a topological network, making "me" no lo
 - **Touchdesigner**: Act as an integration platform to uniformly converge and render in real time the background generation from ComfyUI, the gesture data captured by webcam, and the 3D model animation output by Blender.
   
 ### Images:  
-![image](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/0755f731-bd68-4e14-98ea-b629268929c6)
+
+<img width="1700" height="830" alt="image" src="https://github.com/user-attachments/assets/5c9640ba-d7c2-40a2-aa3b-ec9b646300dd" />
+
 
 ---
 
@@ -84,7 +87,8 @@ Dimensional expansion of Peng:
 
 The "Peng"-shaped dimension-raising movement guided by the left hand corresponds to the equipotential surface climb of particle groups in the four-dimensional Perlin noise field. This is not only a mathematical metaphor of "When the sea is in motion, it will migrate to the southern ocean" in "A Happy Excursion", but also a visual interpretation of the concept of connection in differential geometry: the audience's gesture is actually selecting a gauge field in the fiber bundle and guiding the particles to complete the dimensional transition along the parallel movement path.
 
-![image](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/2e61e3ee-cb28-439f-9f3e-3012d6e6eb99)
+<img width="1691" height="464" alt="image" src="https://github.com/user-attachments/assets/6484a921-d2e8-4ddf-97d1-19bbcfeb0bd8" />
+
 
 At this moment, the screen is no longer a display device but becomes the site for falsifying diffeomorphism theorem - those flowing white particles are both the residuals of algorithm convergence and the weak solution of "Heaven and earth are one finger, and all things are one" in Zhuangzi's "On the Equality of Things" in Sobolev space. When the audience finally realizes that their gesture is just the projection of a high-dimensional gauge field in a three-dimensional cross-section, the real "materialization" is completed: the algorithm and the physical body reach an eternal conspiracy in the Atiyah-Bott fixed point theorem.
 
@@ -92,7 +96,8 @@ At this moment, the screen is no longer a display device but becomes the site fo
 
 ### ComfyUI & Touchdesigner AI generation and construction
 
-![image](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/2e9f34a8-5df7-4752-9b9e-6d3e6c29cfcb)
+<img width="2472" height="665" alt="image" src="https://github.com/user-attachments/assets/e2746be7-3a1b-4e5e-9ffc-59037e54cfaa" />
+
 
 Checkpoint model：[麒麟-revAnimated_v122_V1.2.2](https://www.liblib.art/modelinfo/7ba12c660523414e9013699a4b41ae0d?from=search&versionUuid=fc4d0b305e76483b9cdd4dbde31080d6)
 
@@ -113,7 +118,8 @@ lora model：[全网首发 _ 国风山水-苍茫云天_v1.0](https://www.liblib.
    
 Later, we use the [TDComfyUI-v.1.0.8](https://github.com/olegchomp/TDComfyUI/releases) plugin to enable calling models within TD. Then, by placing the ComfyUI API into TD, real-time generation can be achieved.
 
-<img width="1272" alt="1f9bcc57fe54a4dec3e8d412fbab89c" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/c9a6f6a1-dc19-43dd-bfc6-6e88a1878400">
+<img width="2543" height="1346" alt="image" src="https://github.com/user-attachments/assets/79e9a011-9941-4210-a426-24f0082d2b37" />
+
 
 Later on, create a flowing and falling effect using images generated by AI in TD.
 
@@ -125,17 +131,22 @@ The color flow in the background is actually a mapping of a conformally compacti
 - Visual paradox of eternal fall:
 This effect of continuous falling has a wonderful correspondence with the eternal falling solution in general relativity. In some strong gravitational fields (such as near black holes), objects will continuously fall but the moment when they truly reach the end point is never seen. Here, the color flow symbolizes this dynamic process - they maintain a certain dynamic balance while continuously falling, always approaching but never actually "landing".
 
-![image](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/b4388900-7167-4e92-a068-c0839b22510b)
+<img width="1668" height="719" alt="image" src="https://github.com/user-attachments/assets/8fbe42ac-7486-4f3f-be9e-abc66803c89c" />
 
-![4719d96940e7e70b3a74cedceb377b7](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/388b543c-3b89-4b70-b6c0-b177e1d06744)
 
-https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/1d91c860-e7d8-4d80-96f6-91bb16a2cd0d
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba6d5ec7-da94-4a8e-a2ed-53b3b814ff3d" />
+
+
+https://github.com/user-attachments/assets/10a5624f-e0d9-4574-a419-053300431bf4
+
+
 
 ---
 
 ### Animation of Kunpeng model
 We used Blender to create models and animations of Kunpeng in different forms.
-![image](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/46f0f837-50b5-457a-b83f-9d21b7fd5637)
+<img width="1766" height="494" alt="image" src="https://github.com/user-attachments/assets/b37f8a0b-9b4a-48fa-8df7-ce90901172cd" />
+
 
 ---
 
@@ -146,11 +157,11 @@ For the choice of visual changes, we chose the dynamics and blending of particle
 
 Just as emphasized in our project concept: the continuous transformation and mutual integration between all things.
 
-![image](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/9d369ed7-85a9-4889-837f-24e58cb76702)
+<img width="1431" height="1158" alt="image" src="https://github.com/user-attachments/assets/27bbe7d1-665f-496d-965e-1978383f660f" />
 
-![image](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/2242b9f5-7528-4628-8861-24cf6a1df5ef)
+<img width="2501" height="1085" alt="image" src="https://github.com/user-attachments/assets/484e1789-998c-4d33-b538-5d9b318c1b91" />
 
-https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/07505e23-e8de-4714-a46e-a26421a856d4
+https://github.com/user-attachments/assets/27d7b573-1fe3-4358-a9cc-8c3dc87995e5
 
 ---
 
@@ -159,26 +170,35 @@ We later added a webcam and made the interaction method into two-handed control 
 
 The two hands each undertake different control tasks, just like the dual identities of Kun and Peng in ancient mythology. The right hand triggers the collapse and aggregation of the particle system, presenting a local minimum state in chaos (that is, the form of "Kun"), while the left hand guides the particles to expand and rise in a higher dimension, symbolizing the transformation from chaos to an orderly and grand "Peng". This division of labor makes the interactive experience more layered and reflects the dynamic balance and mutual transformation between the two states.
 
-![image](https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/4ee7c7dc-4c1c-4823-b228-a03c1b0d1d44)
+<img width="1101" height="1106" alt="image" src="https://github.com/user-attachments/assets/8e1fbf23-0456-48bc-83fe-728fbd788867" />
 
-https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/8e931ecd-4cc0-45a5-853f-aca34479b2f2
+
+https://github.com/user-attachments/assets/cb95b7e6-83c4-4143-bfc2-5eaa0198944f
+
+
+
+
+
+
 
 ---
 
 ## Video Demonstration
 
-https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/92e892b3-19d8-4504-8ae5-63a112dcc5f3
+https://youtu.be/lnoJbJCT0gk
 
 ---
 
 ## Final Images
-<img width="1920" alt="Group 172" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/ba5f4183-5753-4355-ab69-15c4d6b77279">
 
-<img width="1585" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/2f0f3933-a918-4327-8564-55172b46ead4">
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/691a8853-396b-4d1d-989b-a508891624f0" />
 
-<img width="1584" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/61b74149-9b8e-4d8d-ae5d-07854beb4e9b">
+<img width="3170" height="1772" alt="image" src="https://github.com/user-attachments/assets/230e2a77-c70e-488b-8f00-a708616d1482" />
 
-<img width="1589" alt="image" src="https://git.arts.ac.uk/24005203/Responsive-Environments-Blog-2024/assets/1175/e5a24303-2f10-4210-a2e8-3f190d00c590">
+<img width="3168" height="1754" alt="image" src="https://github.com/user-attachments/assets/1d784bf4-ce9c-4c0a-9e50-ef1843131b46" />
+
+<img width="3178" height="1772" alt="image" src="https://github.com/user-attachments/assets/8e933d2c-c0b9-48cb-ba86-018cf5b44c87" />
+
 
 ---
 
@@ -207,6 +227,7 @@ Issue: The mythical image of Kunpeng lacks a cognitive basis for non-East Asian 
 Solution: Kun → Quantum marine organism, with a flowing form composed of fluorescent jellyfish particle swarms. The surface texture simulates the mineral deposition of deep-sea hydrothermal vents. The movement trajectory presents the universal mathematical beauty of the Fibonacci spiral. Peng → Cosmic energy body, taking supernova remnants as the styling prototype. The wings adopt a dynamic material of polarized light interference fringes.
 
 (ps. But of course, I think this may not be a perfect solution either. After all, cultural foundation is the basis for resonating with works. Modifying it into Western visual language is difficult to express the thought of Zhuangzi's Kunpeng. Perhaps in the future we will have a better integration method? The essence of Zhuangzi's philosophy lies in the dynamic process of "materialization" rather than a specific image. Directly replacing Kunpeng with Western symbols is essentially replacing process philosophy with static counterparts, resulting in the preservation of form but the loss of spirit.)
+
 
 
 
