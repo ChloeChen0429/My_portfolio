@@ -1,31 +1,4 @@
-# Emotion-Driven Techno Generator — Project Logs & Setup
-
-This repository documents the weekly progress of my final project, which builds a real-time emotion-driven audiovisual system.  
-The system captures facial expressions → classifies emotion → generates Techno loops → drives VJ visuals via OSC.
-
----
-
-# Project Logs
-
-- [Week 1 & 2](Week1&2.md)
-- [Week 3 & 4](Week3&4.md)
-- [Week 5 & 6](Week5&6.md)
-- [Week 7 & 8](Week7&8.md)
-- [Week 9 & 10](Week9&10.md)
-- [Week 11 & 12](Week11&12.md)
-- [Week 13 & 14](Week13&14.md)
-- [Week 15 & 16](Week15&16.md)
-- [Week 17 & 18](Week17&18.md)
-- [Week 19 & 20](Week19&20.md)
-
----
-
-# Project Video
-
-https://drive.google.com/file/d/1QIKqgYDYI5icM-6yF4w94FKiCGL3AduE/view?usp=sharing
-
----
-
+# Emotion-Driven Techno Generator 
 # Required External Files
 
 To run the full system, several external assets must be placed inside your project folder.  
