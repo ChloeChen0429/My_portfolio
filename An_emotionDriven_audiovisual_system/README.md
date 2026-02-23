@@ -1,4 +1,50 @@
 # Emotion-Driven Techno Generator 
+
+# System Running Example
+
+https://github.com/user-attachments/assets/c38de339-b14d-43ed-8da1-d1d036cfb51b
+
+
+https://github.com/user-attachments/assets/27e72f84-c3ad-4bd6-9981-14c4347c6340
+
+
+# Emotion Driven MusicGENpart
+
+https://github.com/user-attachments/assets/c731945e-6cca-4d38-9e73-a90e38ad9a45
+
+# Seven visuals of the emotions 
+## Happy
+
+https://github.com/user-attachments/assets/8cbfff41-0d90-4c14-9293-76310705de81
+
+## Disgust
+
+https://github.com/user-attachments/assets/1eeacadc-fa76-4e2b-9bc1-f70db27adc32
+
+## Neutral
+
+https://github.com/user-attachments/assets/20de2d34-21b4-4c28-8619-b2b774a9fac6
+
+## Angry
+
+https://github.com/user-attachments/assets/796f35e6-285e-496f-ad28-792d9f0d743f
+
+## Sad
+
+https://github.com/user-attachments/assets/1e084301-c98f-46cb-8b58-59161212c6d2
+
+## Surprise
+
+https://github.com/user-attachments/assets/a527fd8b-85c7-4080-bcee-a334d4fef5e5
+
+## Fear
+
+https://github.com/user-attachments/assets/b088bd35-001f-4dcd-9cfb-816a33b1dda5
+
+
+
+
+
 # Required External Files
 
 To run the full system, several external assets must be placed inside your project folder.  
