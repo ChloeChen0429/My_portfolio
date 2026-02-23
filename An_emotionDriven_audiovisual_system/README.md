@@ -1,12 +1,10 @@
 # Emotion-Driven Techno Generator 
 
+https://github.com/user-attachments/assets/27e72f84-c3ad-4bd6-9981-14c4347c6340
+
 # System Running Example
 
 https://github.com/user-attachments/assets/c38de339-b14d-43ed-8da1-d1d036cfb51b
-
-
-https://github.com/user-attachments/assets/27e72f84-c3ad-4bd6-9981-14c4347c6340
-
 
 # Emotion Driven MusicGENpart
 
