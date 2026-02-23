@@ -1,6 +1,10 @@
 # Wandering Kunpeng（云游鲲鹏）
 
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/35553f0e-7b3c-46f4-8a28-95f74cb14539" />
+
+
+https://github.com/user-attachments/assets/3a611bac-140d-4813-b837-7918e98fdfca
+
+
 
 *Kunpeng is a mythical creature, symbolizing transformation and freedom.*
 
@@ -218,6 +222,7 @@ Issue: The mythical image of Kunpeng lacks a cognitive basis for non-East Asian 
 Solution: Kun → Quantum marine organism, with a flowing form composed of fluorescent jellyfish particle swarms. The surface texture simulates the mineral deposition of deep-sea hydrothermal vents. The movement trajectory presents the universal mathematical beauty of the Fibonacci spiral. Peng → Cosmic energy body, taking supernova remnants as the styling prototype. The wings adopt a dynamic material of polarized light interference fringes.
 
 (ps. But of course, I think this may not be a perfect solution either. After all, cultural foundation is the basis for resonating with works. Modifying it into Western visual language is difficult to express the thought of Zhuangzi's Kunpeng. Perhaps in the future we will have a better integration method? The essence of Zhuangzi's philosophy lies in the dynamic process of "materialization" rather than a specific image. Directly replacing Kunpeng with Western symbols is essentially replacing process philosophy with static counterparts, resulting in the preservation of form but the loss of spirit.)
+
 
 
 
