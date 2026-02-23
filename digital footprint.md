@@ -1,10 +1,10 @@
 **Digital Footprint**
 
-Student Name (Id#): Yuxin Chen(24012749)
-
 Sketch Link: https://editor.p5js.org/ChloeChen0429/sketches/K2f3_hikn
 
-Project Video: https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b99f714f-5fb0-4690-97d8-b23b00732603
+https://github.com/user-attachments/assets/89dd9427-65a9-47ea-bec5-da6196a43a91
+
+
 
 **Project Description** 
 
@@ -24,17 +24,3 @@ Protecting our privacy is a project that goes beyond artistry—it also acts as 
 <img width="483" alt="截屏2024-12-03 06 57 25" src="https://git.arts.ac.uk/24012749/CCI-Course-Notebook/assets/1220/41debd62-4b8d-4acc-ba5c-56334095c59e">
 
 
-
-**References:**
-
-Loadfont (no date) loadFont. Available at: https://p5js.org/reference/p5/loadFont/ (Accessed: 02 December 2024). 
-Loadmodel (no date) loadModel. Available at: https://p5js.org/zh-Hans/reference/p5/loadModel/ (Accessed: 02 December 2024). 
-MozDevNet (no date) Window: Settimeout() method - web apis: MDN, MDN Web Docs. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Window/setTimeout (Accessed: 02 December 2024). 
-几何 (no date) p5.js. Available at: https://p5js.org/zh-Hans/examples//3d-geometries/ (Accessed: 02 December 2024). 
-连接的粒子 (no date) p5.js. Available at: https://p5js.org/zh-Hans/examples/classes-and-objects-connected-particles/ (Accessed: 02 December 2024). 
-
-**Homework Submissions**
-
-[Link to Homework 1](https://editor.p5js.org/ChloeChen0429/sketches/eLPJhDfn4)
-
-[Link to Homework 2](https://editor.p5js.org/ChloeChen0429/sketches/8QJ3NSMHd)
