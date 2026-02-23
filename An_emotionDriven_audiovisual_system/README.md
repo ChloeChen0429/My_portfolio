@@ -3,25 +3,8 @@
 https://github.com/user-attachments/assets/27e72f84-c3ad-4bd6-9981-14c4347c6340
 
 
-flowchart LR
+<img width="1411" height="219" alt="image" src="https://github.com/user-attachments/assets/6a8f2722-2a81-483e-9a25-13acededbe1a" />
 
-A[Camera Input<br/>Performer Face] --> B[YOLOv8<br/>Face Detection]
-B --> C[Emotion Classifier<br/>(Custom Model)]
-C --> D[Emotion Label<br/>Mapped to Russell Circumplex]
-
-D --> E[Music Selector<br/>Custom Dataset]
-E --> F[Music Stitching Engine<br/>Segment-Based Composition]
-
-F --> G[Audio Output]
-F --> H[OSC Sender]
-
-H --> I[TouchDesigner<br/>OSC Receiver]
-
-G --> J[Audio Spectrum Analysis<br/>TouchDesigner]
-I --> K[Visual System]
-J --> K
-
-K --> L[Real-time Generative Visuals]
 
 # System Running Example
 
